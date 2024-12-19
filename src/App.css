@@ -1,0 +1,24 @@
+#root {
+	max-width: 1280px;
+	margin: 0 auto;
+	padding: 2rem;
+	text-align: center;
+}
+body {
+	background-color: rgba(39, 38, 38, 0.881);
+	transition: background-color 0.3s, color 0.3s;
+}
+.light {
+	background-color: black;
+	color: antiquewhite;
+	border: 1px solid antiquewhite;
+	border-radius: 10px;
+}
+
+
+.dark {
+	background-color: antiquewhite;
+	color: black;
+	border: 1px solid black;
+	border-radius: 10px;
+}
