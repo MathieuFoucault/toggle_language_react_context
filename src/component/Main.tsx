@@ -10,7 +10,7 @@ const Main = () => {
 		<main className={theme}>
 			<h2>
 				{language === "fr"
-					? "Bienvenue dans ce workshop!"
+					? "Bienvenue dans cet atelier!"
 					: "Welcome to this workshop!"}
 			</h2>
 			<p>
